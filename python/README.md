@@ -31,6 +31,7 @@ Analyze the time interval between order placement and shipment, visualizing by:
 - Product categories
 - Countries
 - Regions
+
 Explore whether profit depends on the time required for shipment. Perform necessary aggregations and visualizations.
 Visualize sales dynamics over time by product category, country, and region to identify key trends.
 Analyze sales by day of the week to identify potentially seasonal products.
